@@ -1,7 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/xushulin/blog-S.L.Xu</id><title>RSS feed of xushulin's blog-S.L.Xu</title><updated>2024-05-11T09:41:28.878651+00:00</updated><author><name>xushulin</name><email>1754695842@qq.com</email></author><link href="https://github.com/xushulin/blog-S.L.Xu"/><link href="https://raw.githubusercontent.com/xushulin/blog-S.L.Xu/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/2</id><title>测试 github actions 事件流</title><updated>2024-05-11T09:41:29.174077+00:00</updated><content type="html"><![CDATA[<h1>如何成功使用action监听issue事件自动更新readme文件</h1>
-<h2>主要修改的文件：</h2>
-<h3>.github\workflows\generate_readme.yml</h3>
-<p>配置token</p>
-<h3>main.py</h3>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/xushulin/blog-S.L.Xu</id><title>RSS feed of xushulin's blog-S.L.Xu</title><updated>2024-05-11T09:54:06.668802+00:00</updated><author><name>xushulin</name><email>1754695842@qq.com</email></author><link href="https://github.com/xushulin/blog-S.L.Xu"/><link href="https://raw.githubusercontent.com/xushulin/blog-S.L.Xu/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/2</id><title>测试 github actions 事件流</title><updated>2024-05-11T09:54:06.824687+00:00</updated><content type="html"><![CDATA[<h1>使用 github action 完成自动化流程</h1>
+<h2>监听issue事件自动更新readme文件</h2>
+<h3>相关文件</h3>
+<ul>
+<li>.github\workflows\generate_readme.yml</li>
+<li>main.py</li>
+</ul>
+<h3>注意事项</h3>
+<ul>
+<li>在setting中开启action的读写权限
+<img src="https://github.com/xushulin/blog-S.L.Xu/assets/31055821/e109c520-e379-402d-b4ec-7b3009265f05" alt="Image" /></li>
+<li>配置token
+在个人全局setting中创建token
+<img src="https://github.com/xushulin/blog-S.L.Xu/assets/31055821/80292b7d-5d2e-492f-8013-9071dea537b9" alt="Image" />
+在repo的setting中创建秘钥
+<img src="https://github.com/xushulin/blog-S.L.Xu/assets/31055821/ee5593f6-3184-4a10-9b6b-41ef0f7db266" alt="Image" />
+在yaml文件中配置秘钥
+<img src="https://github.com/xushulin/blog-S.L.Xu/assets/31055821/e788aeb9-918e-4e36-9127-8cb3d0be6bb4" alt="Image" /></li>
+</ul>
+<h2>监听issue时间自动更新静态个人页面</h2>
+<h3>相关文件</h3>
+<ul>
+<li>.github\workflows\generate_site.yml</li>
+</ul>
+<h3>注意事项</h3>
+<ul>
+<li>在setting中启用GitHub Pages</li>
+</ul>
 ]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/2"/><category term="测试"/><published>2024-05-11T03:45:27+00:00</published></entry></feed>
