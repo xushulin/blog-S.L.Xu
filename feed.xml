@@ -1,2 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/xushulin/blog-S.L.Xu</id><title>RSS feed of xushulin's blog-S.L.Xu</title><updated>2024-05-11T06:50:29.236853+00:00</updated><author><name>xushulin</name><email>1754695842@qq.com</email></author><link href="https://github.com/xushulin/blog-S.L.Xu"/><link href="https://raw.githubusercontent.com/xushulin/blog-S.L.Xu/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/2</id><title>测试github actions监听issue时间自动生成readme文件</title><updated>2024-05-11T06:50:29.504371+00:00</updated><content type="html"><![CDATA[<p>##主要修改的文件：</p>
+<h3>.github\workflows\generate_readme.yml</h3>
+<p>配置token</p>
+<h3>main.py</h3>
+]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/2"/><category term="测试"/><published>2024-05-11T03:45:27+00:00</published></entry></feed>
