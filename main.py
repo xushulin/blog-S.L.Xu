@@ -9,9 +9,9 @@ from github import Github
 from lxml.etree import CDATA
 from marko.ext.gfm import gfm as marko
 
-MD_HEAD = """## [Gitblog](https://yihong0618.github.io/gitblog/)
-My personal blog([About Me](https://github.com/yihong0618/gitblog/issues/282)) using issues and GitHub Actions (随意转载，无需署名)
-[RSS Feed](https://raw.githubusercontent.com/{repo_name}/master/feed.xml)
+MD_HEAD = """## [Git Blog Page](https://xushulin.github.io/blog-S.L.Xu/)
+使用 issues 和 GitHub Actions 搭建的个人博客！
+([方法参考于yihong的gitblog](https://github.com/yihong0618/gitblog))
 """
 
 BACKUP_DIR = "BACKUP"
