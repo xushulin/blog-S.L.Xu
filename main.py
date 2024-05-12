@@ -11,7 +11,7 @@ from marko.ext.gfm import gfm as marko
 
 MD_HEAD = """## [Git Blog Page](https://xushulin.github.io/blog-S.L.Xu/)
 使用 issues 和 GitHub Actions 搭建的个人博客！
-([方法参考于yihong的gitblog](https://github.com/yihong0618/gitblog))
+([感谢yihong开源gitblog](https://github.com/yihong0618/gitblog))
 """
 
 BACKUP_DIR = "BACKUP"
