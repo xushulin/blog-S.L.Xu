@@ -1,5 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/xushulin/blog-S.L.Xu</id><title>RSS feed of xushulin's blog-S.L.Xu</title><updated>2024-05-13T08:12:42.013802+00:00</updated><author><name>xushulin</name><email>1754695842@qq.com</email></author><link href="https://github.com/xushulin/blog-S.L.Xu"/><link href="https://raw.githubusercontent.com/xushulin/blog-S.L.Xu/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/3</id><title>读《20几岁不能不懂的社交礼仪常识》简记</title><updated>2024-05-13T08:12:42.166241+00:00</updated><content type="html"><![CDATA[<blockquote>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/xushulin/blog-S.L.Xu</id><title>RSS feed of xushulin's blog-S.L.Xu</title><updated>2024-05-13T11:18:18.938466+00:00</updated><author><name>xushulin</name><email>1754695842@qq.com</email></author><link href="https://github.com/xushulin/blog-S.L.Xu"/><link href="https://raw.githubusercontent.com/xushulin/blog-S.L.Xu/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/4</id><title>《控制论与科学方法论》——金观涛,华国凡</title><updated>2024-05-13T11:18:19.161838+00:00</updated><content type="html"><![CDATA[<blockquote>
+<p>这是一本试图运用控制论、系统论的某些概念来介绍科学方法论的书</p>
+</blockquote>
+<h1>第一章 控制和反馈</h1>
+<h2>1.1 可能性空间</h2>
+]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/4"/><category term="读书笔记"/><published>2024-05-13T11:17:57+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/3</id><title>读《20几岁不能不懂的社交礼仪常识》简记</title><updated>2024-05-13T11:18:19.244054+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>内容简介：本书旨在给20几岁即将踏入社会的年轻人提供必要的支持和帮助，让年轻人可以很快地学习和了解日常人际交往中需要的社交礼仪知识。主要包含：怎样塑造个人形象、怎样与人交往、怎样求职应聘、怎样培养自己的人脉、怎样展现自己、怎样赢得机遇等等。</p>
 </blockquote>
 <h2>个人礼仪</h2>
@@ -45,7 +50,7 @@
 <li>走路时昂首挺胸、鞋底不要拖地（不能像穿拖鞋一样）</li>
 <li>走路的时候不要吃东西</li>
 </ol>
-]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/3"/><category term="读书笔记"/><published>2024-05-11T16:19:10+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/2</id><title>使用 Github 的 Issues 和 Actions 功能搭建个人博客平台</title><updated>2024-05-13T08:12:42.245744+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/3"/><category term="读书笔记"/><published>2024-05-11T16:19:10+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/2</id><title>使用 Github 的 Issues 和 Actions 功能搭建个人博客平台</title><updated>2024-05-13T11:18:19.338724+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>主要参考<a href="https://github.com/yihong0618">yihong</a>的<a href="https://github.com/yihong0618/gitblog/issues/177">blog</a></p>
 </blockquote>
 <h2>1 监听issue事件自动更新readme文件</h2>
