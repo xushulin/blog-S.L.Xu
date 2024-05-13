@@ -1,75 +1,48 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/xushulin/blog-S.L.Xu</id><title>RSS feed of xushulin's blog-S.L.Xu</title><updated>2024-05-11T16:19:34.906492+00:00</updated><author><name>xushulin</name><email>1754695842@qq.com</email></author><link href="https://github.com/xushulin/blog-S.L.Xu"/><link href="https://raw.githubusercontent.com/xushulin/blog-S.L.Xu/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/3</id><title>读《20几岁不能不懂的社交礼仪常识》简记</title><updated>2024-05-11T16:19:35.208949+00:00</updated><content type="html"><![CDATA[<blockquote>
-<p>本书旨在给20几岁即将踏入社会的年轻人提供必要的支持和帮助，让年轻人可以很快地学习和了解日常人际交往中需要的社交礼仪知识。</p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/xushulin/blog-S.L.Xu</id><title>RSS feed of xushulin's blog-S.L.Xu</title><updated>2024-05-12T15:16:03.641243+00:00</updated><author><name>xushulin</name><email>1754695842@qq.com</email></author><link href="https://github.com/xushulin/blog-S.L.Xu"/><link href="https://raw.githubusercontent.com/xushulin/blog-S.L.Xu/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/3</id><title>读《20几岁不能不懂的社交礼仪常识》简记</title><updated>2024-05-12T15:16:04.003411+00:00</updated><content type="html"><![CDATA[<blockquote>
+<p>内容简介：本书旨在给20几岁即将踏入社会的年轻人提供必要的支持和帮助，让年轻人可以很快地学习和了解日常人际交往中需要的社交礼仪知识。主要包含：怎样塑造个人形象、怎样与人交往、怎样求职应聘、怎样培养自己的人脉、怎样展现自己、怎样赢得机遇等等。</p>
 </blockquote>
 <h2>个人礼仪</h2>
 <h3>仪表</h3>
+<h4>面容</h4>
 <ol>
 <li>以真实的笑容对人</li>
-<li>根据场合选择合适的发型穿着</li>
+<li>发型要选择合适的场合</li>
 <li>注意清除牙齿上的食物残渣</li>
-<li>男性在状态不好、易容不佳时也需要化妆</li>
+<li>男性在状态不好、仪容不佳时也需要化妆，保持一个良好的精神面貌</li>
+<li>注意露出鼻毛</li>
+</ol>
+<h4>穿着配饰</h4>
+<ol>
 <li>不可在公共场合赤膊</li>
-<li>注意修剪鼻毛</li>
-<li>喷洒香水要适量（化学物质少、香水辐射范围不要超过2米）</li>
-<li>杜绝经常用手整理头发</li>
-<li>避免在公共场合照镜子</li>
-<li>穿着的衣服要整洁干净</li>
-<li>穿西服不可配便鞋</li>
-<li>穿西装注意纽扣的系法</li>
-<li>穿西装不可内衣一层套一层</li>
-<li>西装里面的衬衫袖子要长短适宜</li>
-<li>不可穿着已经磨损的衬衣</li>
+<li>穿着的衣服要整洁、干净、不破旧</li>
+<li>服装颜色不可过多</li>
+<li>不可在要带上挂满钥匙等物</li>
+<li>正式场合衣兜里不可塞满东西</li>
+<li>正式场合不可穿闪闪发光的衬衣或外套</li>
+<li>戴戒指要遵循传统习惯</li>
+</ol>
+<h4>穿着西装</h4>
+<ol>
+<li>不可配便鞋</li>
+<li>注意纽扣的系法</li>
+<li>不可内衣一层套一层</li>
+<li>衬衫袖子要长短适宜，一般长于西装2CM</li>
 <li>正式场合穿西装必须打领带</li>
 <li>正式场合不可系图案夸张的领带</li>
 <li>系领带要讲究章法</li>
 <li>深色西装应配深色袜子</li>
-<li>服装颜色不可过多</li>
-<li>戴领带夹要注意场合</li>
-<li>不可在单层袖口的衬衫上别纽扣</li>
-<li>衣兜里不可塞满东西</li>
-<li>不可在要带上挂满钥匙等物</li>
-<li>正式场合不可穿闪闪发光的衬衣或外套</li>
-<li>戴戒指要遵循传统习惯</li>
 </ol>
 <h3>行为举止</h3>
 <ol>
+<li>杜绝经常用手整理头发</li>
+<li>喷洒香水要适量（化学物质少、香水辐射范围不要超过2米）</li>
+<li>避免在公共场合照镜子</li>
 <li>落座时不要超过椅子的2/3</li>
 <li>下蹲时避开人流</li>
-<li>站立时不可趴伏倚靠</li>
-<li>站立不可歪斜</li>
+<li>站立时不可趴伏倚靠、不可歪斜</li>
 <li>结伴走路时步伐速度要与大家一致</li>
-<li>走路时鞋底不要拖地（不能像穿拖鞋一样）</li>
-<li>走路昂首挺胸</li>
+<li>走路时昂首挺胸、鞋底不要拖地（不能像穿拖鞋一样）</li>
 <li>走路的时候不要吃东西</li>
-<li>避免散步的时候吸烟</li>
 </ol>
-]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/3"/><category term="读书笔记"/><published>2024-05-11T16:19:10+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/2</id><title>使用 Issues 和 Actions 搭建个人博客平台</title><updated>2024-05-11T16:19:35.376007+00:00</updated><content type="html"><![CDATA[<h2>监听issue事件自动更新readme文件</h2>
-<h3>相关文件</h3>
-<ul>
-<li>.github\workflows\generate_readme.yml</li>
-<li>main.py</li>
-</ul>
-<h3>注意事项</h3>
-<ul>
-<li>在setting中开启action的读写权限
-<img src="https://github.com/xushulin/blog-S.L.Xu/assets/31055821/e109c520-e379-402d-b4ec-7b3009265f05" alt="Image" /></li>
-<li>配置token
-在个人全局setting中创建token
-<img src="https://github.com/xushulin/blog-S.L.Xu/assets/31055821/80292b7d-5d2e-492f-8013-9071dea537b9" alt="Image" />
-在repo的setting中创建秘钥
-<img src="https://github.com/xushulin/blog-S.L.Xu/assets/31055821/ee5593f6-3184-4a10-9b6b-41ef0f7db266" alt="Image" />
-在yaml文件中配置秘钥
-<img src="https://github.com/xushulin/blog-S.L.Xu/assets/31055821/e788aeb9-918e-4e36-9127-8cb3d0be6bb4" alt="Image" /></li>
-</ul>
-<h2>监听issue时间事件更新静态个人页面</h2>
-<h3>相关文件</h3>
-<ul>
-<li>.github\workflows\generate_site.yml</li>
-</ul>
-<h3>注意事项</h3>
-<ul>
-<li>在repo的setting中启用GitHub Pages
-<img src="https://github.com/xushulin/blog-S.L.Xu/assets/31055821/c8a07150-3bda-4fc7-ae84-77ba75c44e7e" alt="Image" /></li>
-</ul>
-]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/2"/><category term="开发&amp;测试"/><published>2024-05-11T03:45:27+00:00</published></entry></feed>
+]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/3"/><category term="读书笔记"/><published>2024-05-11T16:19:10+00:00</published></entry></feed>
