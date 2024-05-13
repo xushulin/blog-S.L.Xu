@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/xushulin/blog-S.L.Xu</id><title>RSS feed of xushulin's blog-S.L.Xu</title><updated>2024-05-13T15:22:58.691047+00:00</updated><author><name>xushulin</name><email>1754695842@qq.com</email></author><link href="https://github.com/xushulin/blog-S.L.Xu"/><link href="https://raw.githubusercontent.com/xushulin/blog-S.L.Xu/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/4</id><title>读《控制论与科学方法论》——金观涛，华国凡</title><updated>2024-05-13T15:22:58.848758+00:00</updated><content type="html"><![CDATA[<blockquote>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/xushulin/blog-S.L.Xu</id><title>RSS feed of xushulin's blog-S.L.Xu</title><updated>2024-05-13T16:53:29.851987+00:00</updated><author><name>xushulin</name><email>1754695842@qq.com</email></author><link href="https://github.com/xushulin/blog-S.L.Xu"/><link href="https://raw.githubusercontent.com/xushulin/blog-S.L.Xu/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/4</id><title>读《控制论与科学方法论》——金观涛，华国凡</title><updated>2024-05-13T16:53:30.209414+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>这是一本试图运用控制论、系统论的某些概念来介绍科学方法论的书</p>
 </blockquote>
 <h1>第一章 控制和反馈</h1>
@@ -34,14 +34,25 @@
 <li>控制条件。使事物向既定的目标转化。</li>
 </ol>
 <h2>1.3 控制能力</h2>
+<p>一般来说，我们把实行控制前后的可能性空间之比成为控制能力。如果某一事物的可能性空间为$M$，实行控制后，可能性空间缩为$m$，那么控制能力就是$M/m$。实行控制后，事物发展的可能性空间缩得越小，标志着我们的控制能力越强。</p>
+<p>讨论了有关控制的一些基本概念之后，我们再来研究控制的方法问题。</p>
 <h2>1.4 随机控制</h2>
+<p><strong>随机控制</strong>是最原始的控制方式。我们如果遇到一件棘手的事情，又想不出其他办法来解决，常常硬着头皮说“碰碰运气，试试吧。”。随机控制建立在偶然机遇的基础上，是在对事物的性质不了解时能采取的唯一方法。</p>
+<p>特点：在随机控制过程中，系统的可能性空间只有在达到目标值时才缩小，不达到目标值时，可能性空间不缩小。</p>
+<p>随机控制需要注意的问题：</p>
+<ol>
+<li>所面临的可能性空间的大小。可能性空间越大，搜索范围越大，完成控制所需要的时间越久。</li>
+<li>选择速度的快慢。选择速度越快，完成控制所需时间越短。</li>
+<li>随机控制的有效性问题。目标必须包含在搜索的范围之内。即不能遗漏目标所需的可能性空间。</li>
+</ol>
 <h2>1.5 有记忆的控制</h2>
+<p>随机控制的缺点就是如果碰的不巧，要花费很长的时间才能碰上目标。一个常用的解决办法就是加一个记忆装置，使随机控制成为有记忆的：凡被证明不是目标的状态就不再当作选择对象了，这些状态将从下一个可能性空间中排除出去。</p>
 <h2>1.6 共轭控制</h2>
 <h2>1.7 负反馈控制</h2>
 <h2>1.8 负反馈如何扩大了控制能力</h2>
 <h2>1.9 正反馈与恶性循环</h2>
 <h1>第二章 信息、思维和组织</h1>
-]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/4"/><category term="读书笔记"/><published>2024-05-13T11:17:57+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/3</id><title>读《20几岁不能不懂的社交礼仪常识》——达夫，黄敏</title><updated>2024-05-13T15:22:58.927115+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/4"/><category term="读书笔记"/><published>2024-05-13T11:17:57+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/3</id><title>读《20几岁不能不懂的社交礼仪常识》——达夫，黄敏</title><updated>2024-05-13T16:53:30.368717+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>内容简介：本书旨在给20几岁即将踏入社会的年轻人提供必要的支持和帮助，让年轻人可以很快地学习和了解日常人际交往中需要的社交礼仪知识。主要包含：怎样塑造个人形象、怎样与人交往、怎样求职应聘、怎样培养自己的人脉、怎样展现自己、怎样赢得机遇等等。</p>
 </blockquote>
 <h2>个人礼仪</h2>
@@ -87,7 +98,7 @@
 <li>走路时昂首挺胸、鞋底不要拖地（不能像穿拖鞋一样）</li>
 <li>走路的时候不要吃东西</li>
 </ol>
-]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/3"/><category term="读书笔记"/><published>2024-05-11T16:19:10+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/2</id><title>使用 Github 的 Issues 和 Actions 功能搭建个人博客平台</title><updated>2024-05-13T15:22:59.014516+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/3"/><category term="读书笔记"/><published>2024-05-11T16:19:10+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/2</id><title>使用 Github 的 Issues 和 Actions 功能搭建个人博客平台</title><updated>2024-05-13T16:53:30.539317+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>主要参考<a href="https://github.com/yihong0618">yihong</a>的<a href="https://github.com/yihong0618/gitblog/issues/177">blog</a></p>
 </blockquote>
 <h2>1 监听issue事件自动更新readme文件</h2>
