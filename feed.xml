@@ -1,16 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/xushulin/blog-S.L.Xu</id><title>RSS feed of xushulin's blog-S.L.Xu</title><updated>2024-05-13T14:27:20.041037+00:00</updated><author><name>xushulin</name><email>1754695842@qq.com</email></author><link href="https://github.com/xushulin/blog-S.L.Xu"/><link href="https://raw.githubusercontent.com/xushulin/blog-S.L.Xu/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/4</id><title>读《控制论与科学方法论》——金观涛，华国凡</title><updated>2024-05-13T14:27:20.231938+00:00</updated><content type="html"><![CDATA[<blockquote>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/xushulin/blog-S.L.Xu</id><title>RSS feed of xushulin's blog-S.L.Xu</title><updated>2024-05-13T14:54:58.967372+00:00</updated><author><name>xushulin</name><email>1754695842@qq.com</email></author><link href="https://github.com/xushulin/blog-S.L.Xu"/><link href="https://raw.githubusercontent.com/xushulin/blog-S.L.Xu/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/4</id><title>读《控制论与科学方法论》——金观涛，华国凡</title><updated>2024-05-13T14:54:59.279362+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>这是一本试图运用控制论、系统论的某些概念来介绍科学方法论的书</p>
 </blockquote>
 <h1>第一章 控制和反馈</h1>
 <h2>1.1 可能性空间</h2>
 <p>一切科学研究都必须有一个出发点。几何学的大厦是建立在公理基础上的，控制论和系统论的研究则开始于可能性空间。</p>
 <p>世界上许多事物并不是从一开始就注定要发展成现在这个样子的，在事物发展的初期，它往往有多种发展的可能性，由于条件或者纯粹机遇的关系，最终才沿着某一个特定的方向发展下去。</p>
-<p>顾名思义，控制论是关于控制的理论。对于“用计算机控制宇宙飞船”、“基因控制遗传”、“这个病人的癌症已经不可控制了”等不同的控制过程，虽然其控制对象不同，但作为控制过程，有几点却是他们共有的：
-（1）被控制对象必须存在多种发展的可能性。如果事物的未来只有一种可能性，就无所谓控制了。
-（2）被控制的对象不仅必须存在多种发展的可能性，而且，人可以在这些可能性中通过一定的手段进行选择，才谈得控制。</p>
-<p>由此可见，控制的概念与事物发展的可能性密切相关。<code>我们将事物发展变化中面临的各种可能性集合称为这个事物的 **可能性空间** 。</code></p>
-]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/4"/><category term="读书笔记"/><published>2024-05-13T11:17:57+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/3</id><title>读《20几岁不能不懂的社交礼仪常识》——达夫，黄敏</title><updated>2024-05-13T14:27:20.331622+00:00</updated><content type="html"><![CDATA[<blockquote>
+<p>顾名思义，控制论是关于控制的理论。对于“用计算机控制宇宙飞船”、“基因控制遗传”、“这个病人的癌症已经不可控制了”等不同的控制过程，虽然其控制对象不同，但作为控制过程，有几点却是他们共有的：</p>
+<ol>
+<li>被控制对象必须存在多种发展的可能性。如果事物的未来只有一种可能性，就无所谓控制了。</li>
+<li>被控制的对象不仅必须存在多种发展的可能性，而且，人可以在这些可能性中通过一定的手段进行选择，才谈得控制。</li>
+</ol>
+<p>由此可见，控制的概念与事物发展的可能性密切相关。<code>我们将事物发展变化中面临的各种可能性集合称为这个事物的可能性空间 。</code></p>
+<p>任何事物，都有它一定的可能性空间，但这仅仅是可能性而已，至于事物具体发展成为可能性空间中的哪一个状态，要看条件而定。当事物变到某一状态后，他又面临着新的可能性空间。例如一个鸡蛋，它的可能性空间是：小鸡、鸡蛋。破蛋。当它孵化成小鸡后，它又面临着新的可能性空间：成为一只公鸡、成为一只母鸡、被吃掉等等（图1.1）。</p>
+<p><img src="https://github.com/xushulin/blog-S.L.Xu/assets/31055821/f694129f-5c90-42c1-97ef-02c27fd2d179" alt="图1.1" /></p>
+<center>图1.1</center>
+]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/4"/><category term="读书笔记"/><published>2024-05-13T11:17:57+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/3</id><title>读《20几岁不能不懂的社交礼仪常识》——达夫，黄敏</title><updated>2024-05-13T14:54:59.439346+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>内容简介：本书旨在给20几岁即将踏入社会的年轻人提供必要的支持和帮助，让年轻人可以很快地学习和了解日常人际交往中需要的社交礼仪知识。主要包含：怎样塑造个人形象、怎样与人交往、怎样求职应聘、怎样培养自己的人脉、怎样展现自己、怎样赢得机遇等等。</p>
 </blockquote>
 <h2>个人礼仪</h2>
@@ -56,7 +61,7 @@
 <li>走路时昂首挺胸、鞋底不要拖地（不能像穿拖鞋一样）</li>
 <li>走路的时候不要吃东西</li>
 </ol>
-]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/3"/><category term="读书笔记"/><published>2024-05-11T16:19:10+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/2</id><title>使用 Github 的 Issues 和 Actions 功能搭建个人博客平台</title><updated>2024-05-13T14:27:20.435301+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/3"/><category term="读书笔记"/><published>2024-05-11T16:19:10+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/2</id><title>使用 Github 的 Issues 和 Actions 功能搭建个人博客平台</title><updated>2024-05-13T14:54:59.608406+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>主要参考<a href="https://github.com/yihong0618">yihong</a>的<a href="https://github.com/yihong0618/gitblog/issues/177">blog</a></p>
 </blockquote>
 <h2>1 监听issue事件自动更新readme文件</h2>
