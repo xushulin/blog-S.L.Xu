@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/xushulin/blog-S.L.Xu</id><title>RSS feed of xushulin's blog-S.L.Xu</title><updated>2024-05-14T09:57:16.796712+00:00</updated><author><name>xushulin</name><email>1754695842@qq.com</email></author><link href="https://github.com/xushulin/blog-S.L.Xu"/><link href="https://raw.githubusercontent.com/xushulin/blog-S.L.Xu/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/4</id><title>读《控制论与科学方法论》——金观涛，华国凡</title><updated>2024-05-14T09:57:17.036822+00:00</updated><content type="html"><![CDATA[<blockquote>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/xushulin/blog-S.L.Xu</id><title>RSS feed of xushulin's blog-S.L.Xu</title><updated>2024-05-14T13:14:48.310735+00:00</updated><author><name>xushulin</name><email>1754695842@qq.com</email></author><link href="https://github.com/xushulin/blog-S.L.Xu"/><link href="https://raw.githubusercontent.com/xushulin/blog-S.L.Xu/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/4</id><title>读《控制论与科学方法论》——金观涛，华国凡</title><updated>2024-05-14T13:14:48.621453+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>这是一本试图运用控制论、系统论的某些概念来介绍科学方法论的书</p>
 </blockquote>
 <h1>第一章 控制和反馈</h1>
@@ -34,7 +34,7 @@
 <li>控制条件。使事物向既定的目标转化。</li>
 </ol>
 <h2>1.3 控制能力</h2>
-<p>一般来说，我们把实行控制前后的可能性空间之比成为控制能力。如果某一事物的可能性空间为$M$，实行控制后，可能性空间缩为$m$，那么控制能力就是$M/m$。实行控制后，事物发展的可能性空间缩得越小，标志着我们的控制能力越强。</p>
+<p>一般来说，我们把实行控制前后的可能性空间之比成为控制能力。如果某一事物的可能性空间为 $M$，实行控制后，可能性空间缩为 $m$，那么控制能力就是 $M/m$。实行控制后，事物发展的可能性空间缩得越小，标志着我们的控制能力越强。</p>
 <p>讨论了有关控制的一些基本概念之后，我们再来研究控制的方法问题。</p>
 <h2>1.4 随机控制</h2>
 <p><strong>随机控制</strong>是最原始的控制方式。我们如果遇到一件棘手的事情，又想不出其他办法来解决，常常硬着头皮说“碰碰运气，试试吧。”。随机控制建立在偶然机遇的基础上，是在对事物的性质不了解时能采取的唯一方法。</p>
@@ -48,11 +48,17 @@
 <h2>1.5 有记忆的控制</h2>
 <p>随机控制的缺点就是如果碰的不巧，要花费很长的时间才能碰上目标。一个常用的解决办法就是加一个记忆装置，使随机控制成为有记忆的：凡被证明不是目标的状态就不再当作选择对象了，这些状态将从下一个可能性空间中排除出去。</p>
 <h2>1.6 共轭控制</h2>
+<p>当人们要扩大控制范围的时候，通常要用到一种叫共轭控制的方法。这种方法不涉及某一具体的工具的发明，但却包含了一切工具的控制原理。<em>“它专门研究如何将一件人们无法完成的工作变成能够完成的工作”</em>。</p>
+<p>在“曹冲称象”的故事中，曹冲用大船的沉浮先把象的重量变换成石头的重量（将这一步变换过程用 $L$ 表示），再称出石头的重量（用 $A$ 表示），最后又将石头的重量变换成大象的重量（这一步与 $L$ 交换恰好相反，用 $L^{-1}$ 表示）。</p>
+<details>
+<summary> _曹冲称象的故事_ </summary>
+_三国的时候，有人送了一头大象给曹操。曹操想知道大象有多重，可是当时还没有那么大的秤可以称象。有一个叫曹冲的小孩，想出来一个主意。他建议把象引到一只大船上，在_
+</details>
 <h2>1.7 负反馈控制</h2>
 <h2>1.8 负反馈如何扩大了控制能力</h2>
 <h2>1.9 正反馈与恶性循环</h2>
 <h1>第二章 信息、思维和组织</h1>
-]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/4"/><category term="读书笔记"/><published>2024-05-13T11:17:57+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/3</id><title>读《20几岁不能不懂的社交礼仪常识》——达夫，黄敏</title><updated>2024-05-14T09:57:17.164553+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/4"/><category term="读书笔记"/><published>2024-05-13T11:17:57+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/3</id><title>读《20几岁不能不懂的社交礼仪常识》——达夫，黄敏</title><updated>2024-05-14T13:14:48.786469+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>内容简介：本书旨在给20几岁即将踏入社会的年轻人提供必要的支持和帮助，让年轻人可以很快地学习和了解日常人际交往中需要的社交礼仪知识。主要包含：怎样塑造个人形象、怎样与人交往、怎样求职应聘、怎样培养自己的人脉、怎样展现自己、怎样赢得机遇等等。</p>
 </blockquote>
 <h2>个人礼仪</h2>
@@ -98,7 +104,7 @@
 <li>走路时昂首挺胸、鞋底不要拖地（不能像穿拖鞋一样）</li>
 <li>走路的时候不要吃东西</li>
 </ol>
-]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/3"/><category term="读书笔记"/><published>2024-05-11T16:19:10+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/2</id><title>使用 Github 的 Issues 和 Actions 功能搭建个人博客平台</title><updated>2024-05-14T09:57:17.300973+00:00</updated><content type="html"><![CDATA[<blockquote>
+]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/3"/><category term="读书笔记"/><published>2024-05-11T16:19:10+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/2</id><title>使用 Github 的 Issues 和 Actions 功能搭建个人博客平台</title><updated>2024-05-14T13:14:48.948516+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>主要参考<a href="https://github.com/yihong0618">yihong</a>的<a href="https://github.com/yihong0618/gitblog/issues/177">blog</a></p>
 </blockquote>
 <h2>1 监听issue事件自动更新readme文件</h2>
