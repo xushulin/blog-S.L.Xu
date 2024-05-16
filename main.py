@@ -286,7 +286,7 @@ def generate_rss_feed(repo, filename, me):
         body = "".join(c for c in issue.body if _valid_xml_char_ordinal(c))
 
          # Convert Markdown to HTML with marko
-        html_body = Markdown(extensions=[gfm]).convert(body)
+        html_body = Markdown(extensions=[gfm]).render(body)
 
         # Add MathJax script to the HTML body
         soup = BeautifulSoup(html_body, "html.parser")
