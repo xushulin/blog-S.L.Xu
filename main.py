@@ -10,6 +10,7 @@ from lxml.etree import CDATA
 # from marko.ext.gfm import gfm as marko
 
 from marko import convert
+from marko import Markdown
 from marko.ext.gfm import gfm
 from bs4 import BeautifulSoup
 # from xml.sax.saxutils import escape, CDATA
@@ -285,7 +286,7 @@ def generate_rss_feed(repo, filename, me):
         body = "".join(c for c in issue.body if _valid_xml_char_ordinal(c))
 
          # Convert Markdown to HTML with marko
-        html_body = convert(body, extensions=[gfm])
+        html_body = Markdown(extensions=[gfm]).convert(body)
 
         # Add MathJax script to the HTML body
         soup = BeautifulSoup(html_body, "html.parser")
