@@ -6,13 +6,13 @@ import re
 import markdown
 from feedgen.feed import FeedGenerator
 from github import Github
-# from lxml.etree import CDATA
+from lxml.etree import CDATA
 # from marko.ext.gfm import gfm as marko
 
 from marko import convert
 from marko.ext.gfm import gfm
 from bs4 import BeautifulSoup
-from xml.sax.saxutils import escape, CDATA
+# from xml.sax.saxutils import escape, CDATA
 
 
 MD_HEAD = """## [Git Blog Page](https://xushulin.github.io/blog-S.L.Xu/)
