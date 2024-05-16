@@ -1,5 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/xushulin/blog-S.L.Xu</id><title>RSS feed of xushulin's blog-S.L.Xu</title><updated>2024-05-16T15:31:01.522804+00:00</updated><author><name>xushulin</name><email>1754695842@qq.com</email></author><link href="https://github.com/xushulin/blog-S.L.Xu"/><link href="https://raw.githubusercontent.com/xushulin/blog-S.L.Xu/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/4</id><title>《控制论与科学方法论》——金观涛，华国凡。2005</title><updated>2024-05-16T15:31:01.848468+00:00</updated><content type="html"><![CDATA[<blockquote>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/xushulin/blog-S.L.Xu</id><title>RSS feed of xushulin's blog-S.L.Xu</title><updated>2024-05-16T15:45:37.311152+00:00</updated><author><name>xushulin</name><email>1754695842@qq.com</email></author><link href="https://github.com/xushulin/blog-S.L.Xu"/><link href="https://raw.githubusercontent.com/xushulin/blog-S.L.Xu/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/4</id><title>《控制论与科学方法论》——金观涛，华国凡。2005</title><updated>2024-05-16T15:45:37.656058+00:00</updated><content type="html"><![CDATA[<p><head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['<script type="math/tex">','</script>']]
+            }
+        });
+    </script>
+</head></p>
+<blockquote>
 <p>这是一本试图运用控制论、系统论的某些概念来介绍科学方法论的书</p>
 </blockquote>
 <h1 id="_1">第一章 控制和反馈</h1>
@@ -55,7 +66,7 @@ _三国的时候，有人送了一头大象给曹操。曹操想知道大象有�
 <h2 id="17">1.7 负反馈控制</h2>
 <h2 id="18">1.8 负反馈如何扩大了控制能力</h2>
 <h2 id="19">1.9 正反馈与恶性循环</h2>
-<h1 id="_2">第二章 信息、思维和组织</h1>]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/4"/><category term="读书笔记"/><published>2024-05-13T11:17:57+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/3</id><title>读《20几岁不能不懂的社交礼仪常识》——达夫，黄敏</title><updated>2024-05-16T15:31:02.023014+00:00</updated><content type="html"><![CDATA[<blockquote>
+<h1 id="_2">第二章 信息、思维和组织</h1>]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/4"/><category term="读书笔记"/><published>2024-05-13T11:17:57+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/3</id><title>读《20几岁不能不懂的社交礼仪常识》——达夫，黄敏</title><updated>2024-05-16T15:45:37.836703+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>内容简介：本书旨在给20几岁即将踏入社会的年轻人提供必要的支持和帮助，让年轻人可以很快地学习和了解日常人际交往中需要的社交礼仪知识。主要包含：怎样塑造个人形象、怎样与人交往、怎样求职应聘、怎样培养自己的人脉、怎样展现自己、怎样赢得机遇等等。</p>
 </blockquote>
 <h2 id="_1">个人礼仪</h2>
@@ -100,7 +111,7 @@ _三国的时候，有人送了一头大象给曹操。曹操想知道大象有�
 <li>结伴走路时步伐速度要与大家一致</li>
 <li>走路时昂首挺胸、鞋底不要拖地（不能像穿拖鞋一样）</li>
 <li>走路的时候不要吃东西</li>
-</ol>]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/3"/><category term="读书笔记"/><published>2024-05-11T16:19:10+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/2</id><title>使用 Github 的 Issues 和 Actions 功能搭建个人博客平台</title><updated>2024-05-16T15:31:02.182528+00:00</updated><content type="html"><![CDATA[<blockquote>
+</ol>]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/3"/><category term="读书笔记"/><published>2024-05-11T16:19:10+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/2</id><title>使用 Github 的 Issues 和 Actions 功能搭建个人博客平台</title><updated>2024-05-16T15:45:38.045081+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>主要参考<a href="https://github.com/yihong0618">yihong</a>的<a href="https://github.com/yihong0618/gitblog/issues/177">blog</a></p>
 </blockquote>
 <h2 id="1-issuereadme">1 监听issue事件自动更新readme文件</h2>
