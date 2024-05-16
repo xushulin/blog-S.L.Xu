@@ -7,13 +7,9 @@ import markdown
 from feedgen.feed import FeedGenerator
 from github import Github
 from lxml.etree import CDATA
-# from marko.ext.gfm import gfm as marko
+from marko.ext.gfm import gfm as marko
 
-from marko import convert
-from marko import Markdown
-from marko.ext.gfm import gfm
-from bs4 import BeautifulSoup
-# from xml.sax.saxutils import escape, CDATA
+from mdx_math import MathExtension
 
 
 MD_HEAD = """## [Git Blog Page](https://xushulin.github.io/blog-S.L.Xu/)
@@ -285,21 +281,13 @@ def generate_rss_feed(repo, filename, me):
             item.category({"term": label.name})
         body = "".join(c for c in issue.body if _valid_xml_char_ordinal(c))
 
-         # Convert Markdown to HTML with marko
-        # html_body = Markdown(extensions=[gfm]).render(body)
-        html_body = body
-
-        # Add MathJax script to the HTML body
-        soup = BeautifulSoup(html_body, "html.parser")
-        mathjax_script = soup.new_tag(
-            "script",
-            type="text/javascript",
-            src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
-        )
-        soup.body.insert(0, mathjax_script)
+         # Convert Markdown to HTML
+        exts = ['markdown.extensions.extra', 'markdown.extensions.codehilite','markdown.extensions.tables','markdown.extensions.toc',MathExtension(enable_dollar_delimiter=True)]
+        md = markdown.Markdown(extensions = exts)
+        html_body = md.convert(body)
 
         # Set the content with CDATA to ensure it's treated as HTML
-        item.content(CDATA(str(soup)), type="html")
+        item.content(CDATA(html_body), type="html")
 
         # item.content(CDATA(marko.convert(body)), type="html")
     generator.atom_file(filename)
