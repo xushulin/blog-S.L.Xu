@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/xushulin/blog-S.L.Xu</id><title>RSS feed of xushulin's blog-S.L.Xu</title><updated>2024-05-16T14:32:52.103793+00:00</updated><author><name>xushulin</name><email>1754695842@qq.com</email></author><link href="https://github.com/xushulin/blog-S.L.Xu"/><link href="https://raw.githubusercontent.com/xushulin/blog-S.L.Xu/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/4</id><title>《控制论与科学方法论》——金观涛，华国凡。2005</title><updated>2024-05-16T14:32:52.303449+00:00</updated><content type="html"><![CDATA[<blockquote>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/xushulin/blog-S.L.Xu</id><title>RSS feed of xushulin's blog-S.L.Xu</title><updated>2024-05-16T15:29:33.637129+00:00</updated><author><name>xushulin</name><email>1754695842@qq.com</email></author><link href="https://github.com/xushulin/blog-S.L.Xu"/><link href="https://raw.githubusercontent.com/xushulin/blog-S.L.Xu/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/4</id><title>《控制论与科学方法论》——金观涛，华国凡。2005</title><updated>2024-05-16T15:29:33.812925+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>这是一本试图运用控制论、系统论的某些概念来介绍科学方法论的书</p>
 </blockquote>
-<h1>第一章 控制和反馈</h1>
-<h2>1.1 可能性空间</h2>
+<h1 id="_1">第一章 控制和反馈</h1>
+<h2 id="11">1.1 可能性空间</h2>
 <p><em>一切科学研究都必须有一个出发点。几何学的大厦是建立在公理基础上的，控制论和系统论的研究则开始于可能性空间。</em></p>
 <p><strong>我们将事物发展变化中面临的各种可能性集合称为这个事物的可能性空间 。</strong>
 世界上许多事物并不是从一开始就注定要发展成现在这个样子的，在事物发展的初期，它往往有多种发展的可能性，由于条件或者纯粹机遇的关系，最终才沿着某一个特定的方向发展下去。</p>
@@ -11,59 +11,56 @@
 <table>
 <thead>
 <tr>
-<th align="center"><img src="https://github.com/xushulin/blog-S.L.Xu/assets/31055821/f1105294-b95f-4710-bdff-ddb257a787f5" alt="Image" /></th>
+<th style="text-align: center;"><img alt="Image" src="https://github.com/xushulin/blog-S.L.Xu/assets/31055821/f1105294-b95f-4710-bdff-ddb257a787f5" /></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td align="center"><strong>图1.1</strong></td>
+<td style="text-align: center;"><strong>图1.1</strong></td>
 </tr>
-</tbody></table><p>控制的概念与事物发展的可能性密切相关。对于“用计算机控制宇宙飞船”、“基因控制遗传”、“这个病人的癌症已经不可控制了”等不同的控制过程，虽然其控制对象不同，但作为控制过程，有几点却是他们共有的：</p>
-<ol>
-<li>被控制对象必须存在多种发展的可能性。如果事物的未来只有一种可能性，就无所谓控制了。</li>
-<li>被控制的对象不仅必须存在多种发展的可能性，而且，人可以在这些可能性中通过一定的手段进行选择，才谈得控制。</li>
-</ol>
-<h2>1.2 人通过选择改造世界</h2>
+</tbody>
+</table>
+<p>控制的概念与事物发展的可能性密切相关。对于“用计算机控制宇宙飞船”、“基因控制遗传”、“这个病人的癌症已经不可控制了”等不同的控制过程，虽然其控制对象不同，但作为控制过程，有几点却是他们共有的：
+1. 被控制对象必须存在多种发展的可能性。如果事物的未来只有一种可能性，就无所谓控制了。
+2. 被控制的对象不仅必须存在多种发展的可能性，而且，人可以在这些可能性中通过一定的手段进行选择，才谈得控制。</p>
+<h2 id="12">1.2 人通过选择改造世界</h2>
 <p>为什么事物的可能性空间不止一个状态呢？这是因为事物变化具有“不确定性”。不确定性也就是事物的矛盾性。事物的矛盾性，使事物的可能性空间至少面临着肯定自身和否定自身两种状态。故，事物发展的可能性空间，是由事物内部的矛盾决定的。</p>
 <p>人们根据自己的目的，改变条件，使事物沿着可能性空间内确定的方向发展，就形成控制。
 归根结底，控制是一个在事物可能性空间中进行有方向的选择的过程。
-一切控制过程，实际都是由三个基本环节构成的：</p>
-<ol>
-<li>了解事物面临的可能性空间是什么。如一个人得了病，他可能好转、恶化、死亡。</li>
-<li>在可能性空间中选择某一些状态为目标。如治病的目标是使病情好转。</li>
-<li>控制条件。使事物向既定的目标转化。</li>
-</ol>
-<h2>1.3 控制能力</h2>
-<p>一般来说，我们把实行控制前后的可能性空间之比成为控制能力。如果某一事物的可能性空间为 $M$，实行控制后，可能性空间缩为 $m$，那么控制能力就是 $M/m$。实行控制后，事物发展的可能性空间缩得越小，标志着我们的控制能力越强。</p>
+一切控制过程，实际都是由三个基本环节构成的：
+1. 了解事物面临的可能性空间是什么。如一个人得了病，他可能好转、恶化、死亡。
+2. 在可能性空间中选择某一些状态为目标。如治病的目标是使病情好转。
+3. 控制条件。使事物向既定的目标转化。</p>
+<h2 id="13">1.3 控制能力</h2>
+<p>一般来说，我们把实行控制前后的可能性空间之比成为控制能力。如果某一事物的可能性空间为 <script type="math/tex">M</script>，实行控制后，可能性空间缩为 <script type="math/tex">m</script>，那么控制能力就是 <script type="math/tex">M/m</script>。实行控制后，事物发展的可能性空间缩得越小，标志着我们的控制能力越强。</p>
 <p>讨论了有关控制的一些基本概念之后，我们再来研究控制的方法问题。</p>
-<h2>1.4 随机控制</h2>
+<h2 id="14">1.4 随机控制</h2>
 <p><strong>随机控制</strong>是最原始的控制方式。我们如果遇到一件棘手的事情，又想不出其他办法来解决，常常硬着头皮说“碰碰运气，试试吧。”。随机控制建立在偶然机遇的基础上，是在对事物的性质不了解时能采取的唯一方法。</p>
 <p>特点：在随机控制过程中，系统的可能性空间只有在达到目标值时才缩小，不达到目标值时，可能性空间不缩小。</p>
-<p>随机控制需要注意的问题：</p>
-<ol>
-<li>所面临的可能性空间的大小。可能性空间越大，搜索范围越大，完成控制所需要的时间越久。</li>
-<li>选择速度的快慢。选择速度越快，完成控制所需时间越短。</li>
-<li>随机控制的有效性问题。目标必须包含在搜索的范围之内。即不能遗漏目标所需的可能性空间。</li>
-</ol>
-<h2>1.5 有记忆的控制</h2>
+<p>随机控制需要注意的问题：
+1. 所面临的可能性空间的大小。可能性空间越大，搜索范围越大，完成控制所需要的时间越久。
+2. 选择速度的快慢。选择速度越快，完成控制所需时间越短。
+3. 随机控制的有效性问题。目标必须包含在搜索的范围之内。即不能遗漏目标所需的可能性空间。</p>
+<h2 id="15">1.5 有记忆的控制</h2>
 <p>随机控制的缺点就是如果碰的不巧，要花费很长的时间才能碰上目标。一个常用的解决办法就是加一个记忆装置，使随机控制成为有记忆的：凡被证明不是目标的状态就不再当作选择对象了，这些状态将从下一个可能性空间中排除出去。</p>
-<h2>1.6 共轭控制</h2>
+<h2 id="16">1.6 共轭控制</h2>
 <p>当人们要扩大控制范围的时候，通常要用到一种叫共轭控制的方法。这种方法不涉及某一具体的工具的发明，但却包含了一切工具的控制原理。<em>“它专门研究如何将一件人们无法完成的工作变成能够完成的工作”</em>。</p>
-<p>在“曹冲称象”的故事中，曹冲用大船的沉浮先把象的重量变换成石头的重量（将这一步变换过程用 $<code>L</code>$ 表示），再称出石头的重量（用 $A$ 表示），最后又将石头的重量变换成大象的重量（这一步与 $L$ 交换恰好相反，用 $L^{-1}$ 表示）。</p>
+<p>在“曹冲称象”的故事中，曹冲用大船的沉浮先把象的重量变换成石头的重量（将这一步变换过程用 <script type="math/tex">L</script> 表示），再称出石头的重量（用 <script type="math/tex">A</script> 表示），最后又将石头的重量变换成大象的重量（这一步与 <script type="math/tex">L</script> 交换恰好相反，用 <script type="math/tex">L^{-1}</script> 表示）。</p>
 <details>
+
 <summary> _曹冲称象的故事_ </summary>
-_三国的时候，有人送了一头大象给曹操。曹操想知道大象有多重，可是当时还没有那么大的秤可以称象。有一个叫曹冲的小孩，想出来一个主意。他建议把象引到一只大船上，在_
+_三国的时候，有人送了一头大象给曹操。曹操想知道大象有多重，可是当时还没有那么大的秤可以称象。有一个叫曹冲的小孩，想出来一个主意。他建议把象引到一只大船上，在船上刻下吃水深浅的记号，再把大象换成石头，也使船沉到同一个吃水线上，只要称一下石头的重量就是大象的体重了。 _
 </details>
-<h2>1.7 负反馈控制</h2>
-<h2>1.8 负反馈如何扩大了控制能力</h2>
-<h2>1.9 正反馈与恶性循环</h2>
-<h1>第二章 信息、思维和组织</h1>
-]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/4"/><category term="读书笔记"/><published>2024-05-13T11:17:57+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/3</id><title>读《20几岁不能不懂的社交礼仪常识》——达夫，黄敏</title><updated>2024-05-16T14:32:52.393755+00:00</updated><content type="html"><![CDATA[<blockquote>
+
+<h2 id="17">1.7 负反馈控制</h2>
+<h2 id="18">1.8 负反馈如何扩大了控制能力</h2>
+<h2 id="19">1.9 正反馈与恶性循环</h2>
+<h1 id="_2">第二章 信息、思维和组织</h1>]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/4"/><category term="读书笔记"/><published>2024-05-13T11:17:57+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/3</id><title>读《20几岁不能不懂的社交礼仪常识》——达夫，黄敏</title><updated>2024-05-16T15:29:33.941893+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>内容简介：本书旨在给20几岁即将踏入社会的年轻人提供必要的支持和帮助，让年轻人可以很快地学习和了解日常人际交往中需要的社交礼仪知识。主要包含：怎样塑造个人形象、怎样与人交往、怎样求职应聘、怎样培养自己的人脉、怎样展现自己、怎样赢得机遇等等。</p>
 </blockquote>
-<h2>个人礼仪</h2>
-<h3>仪表</h3>
-<h4>面容</h4>
+<h2 id="_1">个人礼仪</h2>
+<h3 id="_2">仪表</h3>
+<h4 id="_3">面容</h4>
 <ol>
 <li>以真实的笑容对人</li>
 <li>发型要选择合适的场合</li>
@@ -71,7 +68,7 @@ _三国的时候，有人送了一头大象给曹操。曹操想知道大象有�
 <li>男性在状态不好、仪容不佳时也需要化妆，保持一个良好的精神面貌</li>
 <li>注意露出鼻毛</li>
 </ol>
-<h4>穿着配饰</h4>
+<h4 id="_4">穿着配饰</h4>
 <ol>
 <li>不可在公共场合赤膊</li>
 <li>穿着的衣服要整洁、干净、不破旧</li>
@@ -81,7 +78,7 @@ _三国的时候，有人送了一头大象给曹操。曹操想知道大象有�
 <li>正式场合不可穿闪闪发光的衬衣或外套</li>
 <li>戴戒指要遵循传统习惯</li>
 </ol>
-<h4>穿着西装</h4>
+<h4 id="_5">穿着西装</h4>
 <ol>
 <li>不可配便鞋</li>
 <li>注意纽扣的系法</li>
@@ -92,7 +89,7 @@ _三国的时候，有人送了一头大象给曹操。曹操想知道大象有�
 <li>系领带要讲究章法</li>
 <li>深色西装应配深色袜子</li>
 </ol>
-<h3>行为举止</h3>
+<h3 id="_6">行为举止</h3>
 <ol>
 <li>杜绝经常用手整理头发</li>
 <li>喷洒香水要适量（化学物质少、香水辐射范围不要超过2米）</li>
@@ -103,46 +100,44 @@ _三国的时候，有人送了一头大象给曹操。曹操想知道大象有�
 <li>结伴走路时步伐速度要与大家一致</li>
 <li>走路时昂首挺胸、鞋底不要拖地（不能像穿拖鞋一样）</li>
 <li>走路的时候不要吃东西</li>
-</ol>
-]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/3"/><category term="读书笔记"/><published>2024-05-11T16:19:10+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/2</id><title>使用 Github 的 Issues 和 Actions 功能搭建个人博客平台</title><updated>2024-05-16T14:32:52.495120+00:00</updated><content type="html"><![CDATA[<blockquote>
+</ol>]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/3"/><category term="读书笔记"/><published>2024-05-11T16:19:10+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/2</id><title>使用 Github 的 Issues 和 Actions 功能搭建个人博客平台</title><updated>2024-05-16T15:29:34.042479+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>主要参考<a href="https://github.com/yihong0618">yihong</a>的<a href="https://github.com/yihong0618/gitblog/issues/177">blog</a></p>
 </blockquote>
-<h2>1 监听issue事件自动更新readme文件</h2>
-<h3>1.1 相关文件</h3>
+<h2 id="1-issuereadme">1 监听issue事件自动更新readme文件</h2>
+<h3 id="11">1.1 相关文件</h3>
 <ul>
 <li>.github\workflows\generate_readme.yml</li>
 <li>main.py</li>
 </ul>
-<h3>1.2 相关配置</h3>
+<h3 id="12">1.2 相关配置</h3>
 <ul>
 <li>
 <p>在setting中开启action的读写权限
-<img src="https://github.com/xushulin/blog-S.L.Xu/assets/31055821/e109c520-e379-402d-b4ec-7b3009265f05" alt="Image" /></p>
+<img alt="Image" src="https://github.com/xushulin/blog-S.L.Xu/assets/31055821/e109c520-e379-402d-b4ec-7b3009265f05" /></p>
 </li>
 <li>
 <p>配置token
 在个人全局setting中创建token
-<img src="https://github.com/xushulin/blog-S.L.Xu/assets/31055821/80292b7d-5d2e-492f-8013-9071dea537b9" alt="Image" />
+<img alt="Image" src="https://github.com/xushulin/blog-S.L.Xu/assets/31055821/80292b7d-5d2e-492f-8013-9071dea537b9" />
 在repo的setting中创建秘钥
-<img src="https://github.com/xushulin/blog-S.L.Xu/assets/31055821/ee5593f6-3184-4a10-9b6b-41ef0f7db266" alt="Image" />
+<img alt="Image" src="https://github.com/xushulin/blog-S.L.Xu/assets/31055821/ee5593f6-3184-4a10-9b6b-41ef0f7db266" />
 在yaml文件中配置秘钥
-<img src="https://github.com/xushulin/blog-S.L.Xu/assets/31055821/e788aeb9-918e-4e36-9127-8cb3d0be6bb4" alt="Image" /></p>
+<img alt="Image" src="https://github.com/xushulin/blog-S.L.Xu/assets/31055821/e788aeb9-918e-4e36-9127-8cb3d0be6bb4" /></p>
 </li>
 </ul>
-<h3>注意事项</h3>
+<h3 id="_1">注意事项</h3>
 <ul>
 <li>不要 close issue，否则readme中将不显示该条issue</li>
 </ul>
-<h2>2 监听issue事件更新静态个人页面</h2>
-<h3>2.1 相关文件</h3>
+<h2 id="2-issue">2 监听issue事件更新静态个人页面</h2>
+<h3 id="21">2.1 相关文件</h3>
 <ul>
 <li>.github\workflows\generate_site.yml</li>
 </ul>
-<h3>2.2 相关配置</h3>
+<h3 id="22">2.2 相关配置</h3>
 <ul>
 <li>在repo的setting中启用GitHub Pages
-<img src="https://github.com/xushulin/blog-S.L.Xu/assets/31055821/c8a07150-3bda-4fc7-ae84-77ba75c44e7e" alt="Image" /></li>
+<img alt="Image" src="https://github.com/xushulin/blog-S.L.Xu/assets/31055821/c8a07150-3bda-4fc7-ae84-77ba75c44e7e" /></li>
 </ul>
-<h2>3 issue 的 labels 和 projects 的使用</h2>
-<p>TODO</p>
-]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/2"/><category term="开发&amp;测试"/><published>2024-05-11T03:45:27+00:00</published></entry></feed>
+<h2 id="3-issue-labels-projects">3 issue 的 labels 和 projects 的使用</h2>
+<p>TODO</p>]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/2"/><category term="开发&amp;测试"/><published>2024-05-11T03:45:27+00:00</published></entry></feed>
