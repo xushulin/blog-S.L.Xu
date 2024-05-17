@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/xushulin/blog-S.L.Xu</id><title>RSS feed of xushulin's blog-S.L.Xu</title><updated>2024-05-17T15:18:21.063948+00:00</updated><author><name>xushulin</name><email>1754695842@qq.com</email></author><link href="https://github.com/xushulin/blog-S.L.Xu"/><link href="https://raw.githubusercontent.com/xushulin/blog-S.L.Xu/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/4</id><title>《控制论与科学方法论》——金观涛，华国凡。2005</title><updated>2024-05-17T15:18:21.218377+00:00</updated><content type="html"><![CDATA[<p><head>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/xushulin/blog-S.L.Xu</id><title>RSS feed of xushulin's blog-S.L.Xu</title><updated>2024-05-17T16:44:08.974251+00:00</updated><author><name>xushulin</name><email>1754695842@qq.com</email></author><link href="https://github.com/xushulin/blog-S.L.Xu"/><link href="https://raw.githubusercontent.com/xushulin/blog-S.L.Xu/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/4</id><title>《控制论与科学方法论》——金观涛，华国凡。2005</title><updated>2024-05-17T16:44:09.297774+00:00</updated><content type="html"><![CDATA[<p><head>
     <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
     <script type="text/x-mathjax-config">
         MathJax.Hub.Config({
@@ -69,7 +69,7 @@
 <p><strong><em>曹冲称象的故事</em></strong>：<em>三国的时候，有人送了一头大象给曹操。曹操想知道大象有多重，可是当时还没有那么大的秤可以称象。有一个叫曹冲的小孩，想出来一个主意。他建议把象引到一只大船上，在船上刻下吃水深浅的记号，再把大象换成石头，也使船沉到同一个吃水线上，只要称一下石头的重量就是大象的体重了。</em>&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
 </li>
 </ol>
-</div>]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/4"/><category term="读书笔记"/><published>2024-05-13T11:17:57+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/3</id><title>《20几岁不能不懂的社交礼仪常识》——达夫，黄敏。2019</title><updated>2024-05-17T15:18:21.320618+00:00</updated><content type="html"><![CDATA[<blockquote>
+</div>]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/4"/><category term="读书笔记"/><published>2024-05-13T11:17:57+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/3</id><title>《20几岁不能不懂的社交礼仪常识》——达夫，黄敏。2019</title><updated>2024-05-17T16:44:09.475812+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>内容简介：本书旨在给20几岁即将踏入社会的年轻人提供必要的支持和帮助，让年轻人可以很快地学习和了解日常人际交往中需要的社交礼仪知识。主要包含：怎样塑造个人形象、怎样与人交往、怎样求职应聘、怎样培养自己的人脉、怎样展现自己、怎样赢得机遇等等。</p>
 </blockquote>
 <h2 id="_1">个人礼仪</h2>
@@ -97,7 +97,7 @@
 <li>不可配便鞋</li>
 <li>注意纽扣的系法</li>
 <li>不可内衣一层套一层</li>
-<li>衬衫袖子要长短适宜，一般长于西装2CM</li>
+<li>衬衫袖子要长短适宜，一般长于西装2厘米</li>
 <li>正式场合穿西装必须打领带</li>
 <li>正式场合不可系图案夸张的领带</li>
 <li>系领带要讲究章法</li>
@@ -114,7 +114,53 @@
 <li>结伴走路时步伐速度要与大家一致</li>
 <li>走路时昂首挺胸、鞋底不要拖地（不能像穿拖鞋一样）</li>
 <li>走路的时候不要吃东西</li>
-</ol>]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/3"/><category term="读书笔记"/><published>2024-05-11T16:19:10+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/2</id><title>使用 Github 的 Issues 和 Actions 功能搭建个人博客平台</title><updated>2024-05-17T15:18:21.420294+00:00</updated><content type="html"><![CDATA[<blockquote>
+</ol>
+<h2 id="_7">交往礼仪</h2>
+<h3 id="_8">称呼</h3>
+<h4 id="_9">自称</h4>
+<ol>
+<li>自称奉行谦恭的态度</li>
+<li>面对长辈、亲朋，可以用名字或者小名</li>
+<li>陌生人用全名，或者以姓自称。如“我姓李”</li>
+<li>上司或领导，常用全名+职务。如“我叫XXX，是XXX”</li>
+</ol>
+<h4 id="_10">称呼他人</h4>
+<ol>
+<li>熟人，可直呼其名，或者忽略姓，或者以“小X”、“老X”称呼其姓</li>
+<li>陌生人，根据年龄+性别称呼。如“先生”、“女士”、“老伯”、“大妈”等</li>
+</ol>
+<h3 id="_11">见面</h3>
+<h4 id="_12">握手</h4>
+<ol>
+<li>与人握手应选择合适的场合和时机</li>
+<li>握手的同时应该看着对方的眼睛，并致以问候</li>
+<li>餐桌上、厕所里、以及别人有事在身时不要与之握手</li>
+<li>一般情况下不使用左手握手、如果不变需要礼貌说明并道歉</li>
+<li>握手双方距离1米左右较为合适、距离较远时不要急着提前伸手</li>
+<li>切记戴着手套或墨镜握手</li>
+<li>与别人握手后，避免马上擦手或者清洗</li>
+<li>握手时应起身站立</li>
+<li>握手时另一只手不可插兜、嘴里不可有食物香烟等</li>
+</ol>
+<h4 id="_13">自我介绍</h4>
+<ol>
+<li>主动介绍自己</li>
+<li>自我介绍应突出自己的优点和特点，讲究方式</li>
+<li>自我介绍应组织好内容和语言逻辑，防止杂乱无章</li>
+<li>应双手递接名片、不可仅使用左手</li>
+<li>递接名片时要从容</li>
+</ol>
+<h3 id="_14">做客拜访他人</h3>
+<h3 id="_15">做东接待客人</h3>
+<h3 id="_16">探病</h3>
+<h3 id="_17">交谈</h3>
+<h3 id="_18">社交与其他</h3>
+<h2 id="_19">职场礼仪</h2>
+<h2 id="_20">人脉常识</h2>
+<h2 id="_21">办事技巧</h2>
+<h2 id="_22">宴请礼仪</h2>
+<h2 id="_23">生活礼仪</h2>
+<h2 id="_24">公共场所礼仪</h2>]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/3"/><category term="读书笔记"/><published>2024-05-11T16:19:10+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/2</id><title>使用 Github 的 Issues 和 Actions 功能搭建个人博客平台</title><updated>2024-05-17T16:44:09.650857+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>主要参考<a href="https://github.com/yihong0618">yihong</a>的<a href="https://github.com/yihong0618/gitblog/issues/177">blog</a></p>
 </blockquote>
 <h2 id="1-issuereadme">1 监听issue事件自动更新readme文件</h2>
