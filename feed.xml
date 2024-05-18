@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/xushulin/blog-S.L.Xu</id><title>RSS feed of xushulin's blog-S.L.Xu</title><updated>2024-05-18T12:37:15.978298+00:00</updated><author><name>xushulin</name><email>1754695842@qq.com</email></author><link href="https://github.com/xushulin/blog-S.L.Xu"/><link href="https://raw.githubusercontent.com/xushulin/blog-S.L.Xu/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/4</id><title>《控制论与科学方法论》——金观涛，华国凡。2005</title><updated>2024-05-18T12:37:16.174643+00:00</updated><content type="html"><![CDATA[<p><head>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/xushulin/blog-S.L.Xu</id><title>RSS feed of xushulin's blog-S.L.Xu</title><updated>2024-05-18T16:13:49.502135+00:00</updated><author><name>xushulin</name><email>1754695842@qq.com</email></author><link href="https://github.com/xushulin/blog-S.L.Xu"/><link href="https://raw.githubusercontent.com/xushulin/blog-S.L.Xu/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/4</id><title>《控制论与科学方法论》——金观涛，华国凡。2005</title><updated>2024-05-18T16:13:49.653089+00:00</updated><content type="html"><![CDATA[<p><head>
     <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
     <script type="text/x-mathjax-config">
         MathJax.Hub.Config({
@@ -69,21 +69,21 @@
 <p><strong><em>曹冲称象的故事</em></strong>：<em>三国的时候，有人送了一头大象给曹操。曹操想知道大象有多重，可是当时还没有那么大的秤可以称象。有一个叫曹冲的小孩，想出来一个主意。他建议把象引到一只大船上，在船上刻下吃水深浅的记号，再把大象换成石头，也使船沉到同一个吃水线上，只要称一下石头的重量就是大象的体重了。</em>&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
 </li>
 </ol>
-</div>]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/4"/><category term="读书笔记"/><published>2024-05-13T11:17:57+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/3</id><title>《20几岁不能不懂的社交礼仪常识》——达夫，黄敏。2019</title><updated>2024-05-18T12:37:16.290971+00:00</updated><content type="html"><![CDATA[<blockquote>
+</div>]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/4"/><category term="读书笔记"/><published>2024-05-13T11:17:57+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/3</id><title>《20几岁不能不懂的社交礼仪常识》——达夫，黄敏。2019</title><updated>2024-05-18T16:13:49.742762+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>内容简介：本书旨在给20几岁即将踏入社会的年轻人提供必要的支持和帮助，让年轻人可以很快地学习和了解日常人际交往中需要的社交礼仪知识。主要包含：怎样塑造个人形象、怎样与人交往、怎样求职应聘、怎样培养自己的人脉、怎样展现自己、怎样赢得机遇等等。</p>
 </blockquote>
 <h2 id="_1">个人礼仪</h2>
 <h3 id="_2">仪表</h3>
 <h4 id="_3">面容</h4>
-<ol>
+<ul>
 <li>以真实的笑容对人。</li>
 <li>发型要选择合适的场合。</li>
 <li>注意清除牙齿上的食物残渣。</li>
 <li>男性在状态不好、仪容不佳时也需要化妆，保持一个良好的精神面貌。</li>
 <li>注意不要露出鼻毛。</li>
-</ol>
+</ul>
 <h4 id="_4">穿着配饰</h4>
-<ol>
+<ul>
 <li>不可在公共场合赤膊。</li>
 <li>穿着的衣服要整洁、干净、不破旧。</li>
 <li>服装颜色不可过多。</li>
@@ -91,9 +91,9 @@
 <li>正式场合衣兜里不可塞满东西。</li>
 <li>正式场合不可穿闪闪发光的衬衣或外套。</li>
 <li>戴戒指要遵循传统习惯。</li>
-</ol>
+</ul>
 <h4 id="_5">穿着西装</h4>
-<ol>
+<ul>
 <li>不可配便鞋。</li>
 <li>注意纽扣的系法。</li>
 <li>不可内衣一层套一层。</li>
@@ -102,36 +102,72 @@
 <li>正式场合不可系图案夸张的领带。</li>
 <li>系领带要讲究章法。</li>
 <li>深色西装应配深色袜子。</li>
-</ol>
+</ul>
 <h3 id="_6">行为举止</h3>
+<ul>
+<li>
 <ol>
 <li>杜绝经常用手整理头发。</li>
+</ol>
+</li>
+<li>
+<ol>
 <li>喷洒香水要适量（化学物质少、香水辐射范围不要超过2米）。</li>
+</ol>
+</li>
+<li>
+<ol>
 <li>避免在公共场合照镜子。</li>
+</ol>
+</li>
+<li>
+<ol>
 <li>落座时不要超过椅子的2/3。</li>
+</ol>
+</li>
+<li>
+<ol>
 <li>下蹲时避开人流。</li>
+</ol>
+</li>
+<li>
+<ol>
 <li>站立时不可趴伏倚靠、不可歪斜。</li>
+</ol>
+</li>
+<li>
+<ol>
 <li>结伴走路时步伐速度要与大家一致。</li>
+</ol>
+</li>
+<li>
+<ol>
 <li>走路时昂首挺胸、鞋底不要拖地（不能像穿拖鞋一样）。</li>
+</ol>
+</li>
+<li>
+<ol>
 <li>走路的时候不要吃东西。</li>
 </ol>
+</li>
+</ul>
 <h2 id="_7">交往礼仪</h2>
 <h3 id="_8">称呼</h3>
 <h4 id="_9">自称</h4>
-<ol>
+<ul>
 <li>自称奉行谦恭的态度。</li>
 <li>面对长辈、亲朋，可以用名字或者小名。</li>
 <li>陌生人用全名，或者以姓自称。如“我姓李”。</li>
 <li>上司或领导，常用全名+职务。如“我叫XXX，是XXX”。</li>
-</ol>
+</ul>
 <h4 id="_10">称呼他人</h4>
-<ol>
+<ul>
 <li>熟人，可直呼其名，或者忽略姓，或者以“小X”、“老X”称呼其姓。</li>
 <li>陌生人，根据年龄+性别称呼。如“先生”、“女士”、“老伯”、“大妈”等。</li>
-</ol>
+</ul>
 <h3 id="_11">会见</h3>
 <h4 id="_12">握手</h4>
-<ol>
+<ul>
 <li>与人握手应选择合适的场合和时机。</li>
 <li>握手的同时应该看着对方的眼睛，并致以问候。</li>
 <li>餐桌上、厕所里、以及别人有事在身时不要与之握手。</li>
@@ -141,18 +177,18 @@
 <li>与别人握手后，避免马上擦手或者清洗。</li>
 <li>握手时应起身站立。</li>
 <li>握手时另一只手不可插兜、嘴里不可有食物香烟等。</li>
-</ol>
+</ul>
 <h4 id="_13">自我介绍</h4>
-<ol>
+<ul>
 <li>主动介绍自己。</li>
 <li>自我介绍应突出自己的优点和特点，讲究方式。</li>
 <li>自我介绍应组织好内容和语言逻辑，防止杂乱无章。</li>
 <li>应双手递接名片、不可仅使用左手。</li>
 <li>递接名片时要从容。</li>
-</ol>
+</ul>
 <h3 id="_14">做客拜访他人</h3>
 <h4 id="_15">拜访的基本原则</h4>
-<ol>
+<ul>
 <li>拜访前应该和主人预约。</li>
 <li>拜访时应该征得主人的同意。</li>
 <li>拜访时应保证不打扰主人的正常工作的生活。</li>
@@ -160,28 +196,28 @@
 <li>拜访时不宜带不懂事的小孩。</li>
 <li>切记带着给别人的礼物访友，不得不带则需要先向主人说明，最好给主人也带一份礼物。</li>
 <li>喝茶时要细细品味、动作文雅、态度平和、不发出声音。</li>
-</ol>
+</ul>
 <h4 id="_16">拜访的流程把握</h4>
-<ol>
+<ul>
 <li>敲门时要把握分寸。敲门的声音要有节奏且不宜太重，敲门一次敲两三声即可，敲门时间不要太长。</li>
 <li>进门要换鞋，并依据主人的习惯放在指定位置。</li>
 <li>拜访时尽量在主人指定的房间内活动，切记随便进入主人的房间。</li>
 <li>拜访要控制时间。临时拜访15分钟左右，一般关系和事务拜访半小时左右，好友聚会最好不要超过2小时。</li>
 <li>主人送客时要礼让请对方留步，不宜与对方长时间寒暄。</li>
 <li>做客后要与主人致谢。</li>
-</ol>
+</ul>
 <h3 id="_17">做东接待客人</h3>
 <h4 id="_18">接待的基本原则</h4>
-<ol>
+<ul>
 <li>不可拒绝不速之客：不速之客上门时，应该热情相待，不应露出慌乱、厌烦之色。可客厅招待无须让进内室。</li>
 <li>不可在客人面前与家人争吵。</li>
 <li>不可任由自家小孩打扰客人。自家小孩懂事则需要事先教其礼貌称呼客人。</li>
 <li>待客时照顾来客的小孩儿或陪同者。给小孩准备玩具，给陪同者安排接待者或娱乐休闲项目。</li>
 <li>留宿客人要问客人的习惯。询问客人对住宿环境的要求，为客人营造整洁安静的环境。针对客人的年龄性别身份进行安排。</li>
 <li>待客交谈时避免冷场。</li>
-</ol>
+</ul>
 <h4 id="_19">接待的流程把握</h4>
-<ol>
+<ul>
 <li>客人来访要起立：应该起身相迎，与客人热情寒暄。</li>
 <li>敬茶时：不可满杯，七八分满即可。避免茶水溅出。应双手或右手递上。</li>
 <li>敬茶后及时添茶：剩下三分之一左右时及时添水，茶水颜色变淡时应换新茶，添水时茶杯放在桌边避免溅到客人。</li>
@@ -190,44 +226,69 @@
 <li>送客要送到门外并亲切道“再见”。如果客人初次到来，应将客人送到稍远一点的地方。若是贵客，可将其送到车站并为其准备礼物。</li>
 <li>送客时走在长者后面，主动搀扶年老体弱的客人，行走速度应与客人一直不距离客人太远。</li>
 <li>贵客走后要及时问候。预计其返程时间，选择合适时间问候。</li>
-</ol>
+</ul>
 <h3 id="_20">交谈</h3>
-<ol>
+<ul>
 <li>切记脏话不离口，养成“三思而后行”的习惯。</li>
 <li>交谈时注意与对方保持适当的距离。熟悉的人半米至1米，不熟的人或异性1米至2米。</li>
 <li>听别人讲话时身体不可后仰。应该稍稍前倾，姿势要挺拔端正。</li>
 <li>说话切记总以“我”字开头。不应时时处处以我为中心。</li>
 <li>切记口头禅挂在嘴边。</li>
-</ol>
+<li>开玩笑要注意内容是否适宜：不要拿别人生理缺陷、隐私、伤心事、尴尬事开玩笑。</li>
+<li>注视别人时目光要在一定的范围之内：双眉之间、双眼之间、嘴唇以上。</li>
+<li>不要居高临下地注视别人，不要斜视别人。</li>
+<li>切记不加掩饰的注视别人。交谈者众多时不要盯着一个人看，不要注视别人身体的某些部位。</li>
+<li>与人交谈时不可用目光瞟人。目光适时与别人对视。不要把目光投向空中、地上或交谈对象的身后。</li>
+<li>对他人的主动交谈要积极回应，礼貌地向对方问候、寒暄。</li>
+<li>切记询问对方“我刚刚说到哪里了”。</li>
+<li>说话声音要温和。</li>
+<li>在谈话中不宜纠正别人的错误。非原则性口误、无关紧要的常识性错误，不要纠正。纠正别人错误应该在私下场合，并使用委婉的语言和语气。</li>
+<li>尊重他人的意见。认真聆听。</li>
+<li>不要总是向别人重复讲自己的伤心往事、家庭琐事。</li>
+<li>聚会时不宜用方言与同乡交流。不应压低声音、神态诡异。不要总是与同乡谈话。</li>
+<li>与多人谈话时切记当众叫朋友的小名，想叫小名之前必须征得朋友的同意。</li>
+<li>不要强行加入别人的讨论。</li>
+<li>交谈过程中离开前要打招呼。</li>
+<li>劝说他人要看时机。别人有时间、心平气和、单独相处的时候说。</li>
+<li>懂得适时保持沉默。别人发表意见的时候应该专注的听，别人交谈时应保持礼貌地沉默。</li>
+<li>尽量避免使用专业术语，避免卖弄学识。不要故作高深、故弄玄虚。</li>
+<li>批评别人时切忌有指桑骂槐之嫌。说话时不要借题发挥，就事论事，不牵扯其他人和事。</li>
+<li>说话要注意场合，不同场合注意内容和要点、说话的态度和方式。</li>
+<li>恭维别人不可露骨。</li>
+<li>对自己不懂的事情不随便发表意见。</li>
+<li>切忌轻易许诺。自己做不到的、不想做的、违法的、危害他人利益的事情不要许诺。</li>
+</ul>
 <h3 id="_21">探病</h3>
-<ol>
+<ul>
 <li>探病前要问清情况。</li>
 <li>探病时切忌详问病情，对其表示关心即可，不要做过多评论与担忧惊讶等表情。以免加重病人心理负担。</li>
 <li>探病时宜说一些轻松话题。</li>
-</ol>
+</ul>
 <h3 id="_22">社交与其他</h3>
-<p>请人帮忙要说“请”、“劳驾”。“拜托”等等礼貌用语。
-请求帮助不可超出别人的能力范围。自己方便能办到的事情不要麻烦别人。
-致谢、道歉要及时。
-拒绝他人要委婉，要耐心向对方说明原因并请对方谅解。
-注意多赞美他人。主动寻找他人身上的优点。
-别人失误时不要大惊小怪。任何人的失误都应该以同情和理解的态度来对待。可以适当提供帮助和建议，若对方极力掩饰错误则可装作没看到。
-切记用食指指别人。因掌心向上四指并拢，做类似于“请”的姿势和动作。
-不应随便拍别人肩膀。
-对别人的尴尬要帮助化解和掩盖。应低调上前帮助，否则就避开。
-引导前行时，应走在前面。进出大厅、公共场所等地时，应走在后面。
-禁烟场合不可吸烟。
-切忌需要别人的时候才表示热情。
-不可以貌取人。
-别人有困难时，能帮则应出手相助。不正当事情应予以劝诫。帮不上忙应认真解释。
-与熟人保持联系。个人有结婚、乔迁、升迁等重大事件的时候应及时通知熟人。
-观看别人打牌、下棋时不宜插嘴。</p>
+<ul>
+<li>请人帮忙要说“请”、“劳驾”。“拜托”等等礼貌用语。</li>
+<li>请求帮助不可超出别人的能力范围。自己方便能办到的事情不要麻烦别人。</li>
+<li>致谢、道歉要及时。</li>
+<li>拒绝他人要委婉，要耐心向对方说明原因并请对方谅解。</li>
+<li>注意多赞美他人。主动寻找他人身上的优点。</li>
+<li>别人失误时不要大惊小怪。任何人的失误都应该以同情和理解的态度来对待。可以适当提供帮助和建议，若对方极力掩饰错误则可装作没看到。</li>
+<li>切记用食指指别人。因掌心向上四指并拢，做类似于“请”的姿势和动作。</li>
+<li>不应随便拍别人肩膀。</li>
+<li>对别人的尴尬要帮助化解和掩盖。应低调上前帮助，否则就避开。</li>
+<li>引导前行时，应走在前面。进出大厅、公共场所等地时，应走在后面。</li>
+<li>禁烟场合不可吸烟。</li>
+<li>切忌需要别人的时候才表示热情。</li>
+<li>不可以貌取人。</li>
+<li>别人有困难时，能帮则应出手相助。不正当事情应予以劝诫。帮不上忙应认真解释。</li>
+<li>与熟人保持联系。个人有结婚、乔迁、升迁等重大事件的时候应及时通知熟人。</li>
+<li>观看别人打牌、下棋时不宜插嘴。</li>
+</ul>
 <h2 id="_23">职场礼仪</h2>
 <h2 id="_24">人脉常识</h2>
 <h2 id="_25">办事技巧</h2>
 <h2 id="_26">宴请礼仪</h2>
 <h2 id="_27">生活礼仪</h2>
-<h2 id="_28">公共场所礼仪</h2>]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/3"/><category term="读书笔记"/><published>2024-05-11T16:19:10+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/2</id><title>使用 Github 的 Issues 和 Actions 功能搭建个人博客平台</title><updated>2024-05-18T12:37:16.401953+00:00</updated><content type="html"><![CDATA[<blockquote>
+<h2 id="_28">公共场所礼仪</h2>]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/3"/><category term="读书笔记"/><published>2024-05-11T16:19:10+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/2</id><title>使用 Github 的 Issues 和 Actions 功能搭建个人博客平台</title><updated>2024-05-18T16:13:49.837935+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>主要参考<a href="https://github.com/yihong0618">yihong</a>的<a href="https://github.com/yihong0618/gitblog/issues/177">blog</a></p>
 </blockquote>
 <h2 id="1-issuereadme">1 监听issue事件自动更新readme文件</h2>
