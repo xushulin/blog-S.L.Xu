@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/xushulin/blog-S.L.Xu</id><title>RSS feed of xushulin's blog-S.L.Xu</title><updated>2024-05-18T16:13:49.502135+00:00</updated><author><name>xushulin</name><email>1754695842@qq.com</email></author><link href="https://github.com/xushulin/blog-S.L.Xu"/><link href="https://raw.githubusercontent.com/xushulin/blog-S.L.Xu/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/4</id><title>《控制论与科学方法论》——金观涛，华国凡。2005</title><updated>2024-05-18T16:13:49.653089+00:00</updated><content type="html"><![CDATA[<p><head>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/xushulin/blog-S.L.Xu</id><title>RSS feed of xushulin's blog-S.L.Xu</title><updated>2024-05-19T07:34:44.210336+00:00</updated><author><name>xushulin</name><email>1754695842@qq.com</email></author><link href="https://github.com/xushulin/blog-S.L.Xu"/><link href="https://raw.githubusercontent.com/xushulin/blog-S.L.Xu/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/4</id><title>《控制论与科学方法论》——金观涛，华国凡。2005</title><updated>2024-05-19T07:34:44.362928+00:00</updated><content type="html"><![CDATA[<p><head>
     <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
     <script type="text/x-mathjax-config">
         MathJax.Hub.Config({
@@ -69,7 +69,7 @@
 <p><strong><em>曹冲称象的故事</em></strong>：<em>三国的时候，有人送了一头大象给曹操。曹操想知道大象有多重，可是当时还没有那么大的秤可以称象。有一个叫曹冲的小孩，想出来一个主意。他建议把象引到一只大船上，在船上刻下吃水深浅的记号，再把大象换成石头，也使船沉到同一个吃水线上，只要称一下石头的重量就是大象的体重了。</em>&#160;<a class="footnote-backref" href="#fnref:1" title="Jump back to footnote 1 in the text">&#8617;</a></p>
 </li>
 </ol>
-</div>]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/4"/><category term="读书笔记"/><published>2024-05-13T11:17:57+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/3</id><title>《20几岁不能不懂的社交礼仪常识》——达夫，黄敏。2019</title><updated>2024-05-18T16:13:49.742762+00:00</updated><content type="html"><![CDATA[<blockquote>
+</div>]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/4"/><category term="读书笔记"/><published>2024-05-13T11:17:57+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/3</id><title>《20几岁不能不懂的社交礼仪常识》——达夫，黄敏。2019</title><updated>2024-05-19T07:34:44.472049+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>内容简介：本书旨在给20几岁即将踏入社会的年轻人提供必要的支持和帮助，让年轻人可以很快地学习和了解日常人际交往中需要的社交礼仪知识。主要包含：怎样塑造个人形象、怎样与人交往、怎样求职应聘、怎样培养自己的人脉、怎样展现自己、怎样赢得机遇等等。</p>
 </blockquote>
 <h2 id="_1">个人礼仪</h2>
@@ -284,11 +284,45 @@
 <li>观看别人打牌、下棋时不宜插嘴。</li>
 </ul>
 <h2 id="_23">职场礼仪</h2>
-<h2 id="_24">人脉常识</h2>
-<h2 id="_25">办事技巧</h2>
-<h2 id="_26">宴请礼仪</h2>
-<h2 id="_27">生活礼仪</h2>
-<h2 id="_28">公共场所礼仪</h2>]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/3"/><category term="读书笔记"/><published>2024-05-11T16:19:10+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/2</id><title>使用 Github 的 Issues 和 Actions 功能搭建个人博客平台</title><updated>2024-05-18T16:13:49.837935+00:00</updated><content type="html"><![CDATA[<blockquote>
+<h3 id="_24">面试</h3>
+<ul>
+<li>进入面试场所时要敲门。</li>
+<li>说话速度要适度。</li>
+<li>不应对应聘单位妄加评论。</li>
+<li>切记批评和诋毁原单位，应从它对自己所产生的积极影响入手，不足之处要客观委婉的表达。</li>
+<li>应聘前后礼貌要有始有终</li>
+</ul>
+<h3 id="_25">工作</h3>
+<ul>
+<li>在上司面前不可逞强。不要刻意与上司发生争执与冲突、不要对上司使用轻视、不信任和嘲笑的口吻。</li>
+<li>切记越级报告与请示领导。</li>
+<li>不可热衷于传播小道消息。不打听、不讨论、不传播。</li>
+<li>切记在办公室谈论、评论别人的无能。同事能力不足应该有礼貌而委婉的提出建议，而不是评头论足。</li>
+<li>切记大肆批判公司制度。有问题应该想有关部门提出建议。</li>
+<li>与异性同事交往不可过密。注意自己的肢体语言。</li>
+<li>接受任务的时候不可嘀嘀咕咕。有疑问及时询问，有不满应该克制。</li>
+<li>不可将重要任务一口回绝。自己能够胜任的重要任务不应推托，自己不能胜任的需要礼貌的说明原因。</li>
+<li>不为流言所动。</li>
+<li>不在办公室吃刺激性味道的事物。</li>
+<li>对同事的零食应接受。若由于身体原因不能吃某些零食需要说明原因并致歉。</li>
+<li>要懂得适当的求助别人。</li>
+<li>分清工作关系与私交。</li>
+<li>谦虚有度。别人夸奖自己的时候应该礼貌地适当接受。需要竞争的时候应当仁不让地发挥能力。</li>
+<li>不做事后诸葛亮。</li>
+<li>和同事打成一片。</li>
+<li>切记表现出“怀才不遇”的样子。</li>
+<li>以友好的态度帮助新同事开展工作。</li>
+<li>尊重勤杂人员。</li>
+<li>尽量不打扰工作中的同事。</li>
+<li>不在背后议论领导。</li>
+<li></li>
+</ul>
+<h3 id="_26"></h3>
+<h2 id="_27">人脉常识</h2>
+<h2 id="_28">办事技巧</h2>
+<h2 id="_29">宴请礼仪</h2>
+<h2 id="_30">生活礼仪</h2>
+<h2 id="_31">公共场所礼仪</h2>]]></content><link href="https://github.com/xushulin/blog-S.L.Xu/issues/3"/><category term="读书笔记"/><published>2024-05-11T16:19:10+00:00</published></entry><entry><id>https://github.com/xushulin/blog-S.L.Xu/issues/2</id><title>使用 Github 的 Issues 和 Actions 功能搭建个人博客平台</title><updated>2024-05-19T07:34:44.570981+00:00</updated><content type="html"><![CDATA[<blockquote>
 <p>主要参考<a href="https://github.com/yihong0618">yihong</a>的<a href="https://github.com/yihong0618/gitblog/issues/177">blog</a></p>
 </blockquote>
 <h2 id="1-issuereadme">1 监听issue事件自动更新readme文件</h2>
